@@ -1,3 +1,6 @@
+Allan AI is an innovative voice assistant that functions similarly to Siri and Alexa but is uniquely tailored to engage with users based on their daily activities and preferences. By learning from individual interactions, it provides a more personalized experience, asking relevant questions like "Have you gone to the gym today?" and setting custom reminders such as "Remove your clothes from the hanging line." This tailored approach enhances user engagement and helps individuals stay organized in their daily routines. Leveraging advanced technologies in speech recognition and natural language processing, Allan AI adapts to users' lifestyles, making it a valuable tool for enhancing productivity and personal management.
+
+
 # Alan AI: In-app voice assistant SDK for Flutter
 
 [Alan Platform](https://alan.app/) • [Alan Studio](https://studio.alan.app/register) • [Docs](https://alan.app/docs) • [FAQ](https://alan.app/docs/usage/additional/faq) •
